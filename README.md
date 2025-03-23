@@ -17,3 +17,4 @@ install.packages(c("httr", "readxl", "writexl", "stringr"))
 ```
 
 
+*.ipynb linguist-language=R
