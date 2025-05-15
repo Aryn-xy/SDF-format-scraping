@@ -3,8 +3,6 @@ This project contains an R script that reads an Excel file containing phytochemi
 
 ## Dependencies
 
-The following R packages are required:
-
 - **httr**: For making HTTP requests to PubChem.
 - **readxl**: For reading the Excel file.
 - **writexl**: For writing Excel files.
